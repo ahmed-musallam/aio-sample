@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+node_modules
+
+.env
+
+.aws.tmp.creds.json
+
+.wskdebug.props.tmp
+
+dist/
+
+.vscode/

@@ -1,10 +1,10 @@
 # ahmeds-io-app
 
-Welcome to my Adobe I/O Application!
+Simple IO application that uses [Vue](vuejs.org) and [coral-spectrum](github.com/adobe/coral-spectrum)
 
 ## Setup
 
-- Populate the `.env` file in the project root and fill it as shown [below](#env)
+- Create a `.env` file in the project root and fill it as shown [below](#env)
 
 ## Local Dev
 

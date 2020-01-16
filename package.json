@@ -1,0 +1,32 @@
+{
+  "name": "ahmeds-io-app",
+  "version": "0.0.5",
+  "dependencies": {
+    "@adobe/aio-sdk": "^1.0.2",
+    "@adobe/coral-spectrum": "^4.0.0",
+    "axios": "^0.19.1",
+    "node-fetch": "^2.6.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-error-boundary": "^1.2.5",
+    "vue": "^2.6.11",
+    "vue-hot-reload-api": "^2.3.4"
+  },
+  "devDependencies": {
+    "@adobe/wskdebug": "^1.1.0",
+    "@vue/component-compiler-utils": "^3.1.1",
+    "jest": "^24.9.0",
+    "parcel-plugin-static-files-copy": "^2.2.1",
+    "pug": "^2.0.4",
+    "sass": "^1.24.4",
+    "typescript": "^3.7.4",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "staticFiles": {
+    "staticPath": "web-src/static",
+    "watcherGlob": "**"
+  }
+}
