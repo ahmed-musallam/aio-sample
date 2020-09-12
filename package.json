@@ -5,7 +5,7 @@
     "@adobe/aio-sdk": "^1.0.2",
     "@adobe/coral-spectrum": "^4.0.0",
     "axios": "^0.19.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-error-boundary": "^1.2.5",
